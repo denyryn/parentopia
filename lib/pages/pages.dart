@@ -1,0 +1,9 @@
+export 'home_page.dart';
+export 'discover_page.dart';
+export 'profile_page.dart';
+export 'shop_page.dart';
+export 'note_page.dart';
+export 'note_details_page.dart';
+export 'register_page.dart';
+export 'login_page.dart';
+export 'welcome_page.dart';
